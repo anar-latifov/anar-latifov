@@ -34,8 +34,7 @@ I am Anar Latifov, people call me Anar, a Full-stuck Node.Js Software engineer. 
 ![gRPC](https://img.shields.io/badge/gRPC-green)
 
 
-![anar-latifov's Stats](https://github-readme-stats.vercel.app/api?username=anar-latifov&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-<br />
-![anar-latifov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anar-latifov&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![anar-latifov's Stats](https://github-readme-stats.vercel.app/api?username=anar-latifov&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_answered)
+![anar-latifov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anar-latifov&theme=vue-dark&show_icons=true&hide_border=true&hide=tsql,hack,sass)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=anar-latifov)
