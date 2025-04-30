@@ -2,7 +2,7 @@
 
 I am Anar Latifov, people call me Anar, a Full-stuck Node.Js Software engineer. I am a tech enthusiast. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anar-lat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anar-lat/)](https://www.linkedin.com/in/anar-lat/)
+[![Linkedin Badge](https://img.shields.io/badge/-anar_lat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anar-lat/)](https://www.linkedin.com/in/anar-lat/)
 [![Instagram Badge](https://img.shields.io/badge/-jokopain-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jokopain/)](https://instagram.com/jokopain)
 [![Gmail Badge](https://img.shields.io/badge/-e.latifov.anar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e.latifov.anar@gmail.com)](mailto:e.latifov.anar@gmail.com)
 
