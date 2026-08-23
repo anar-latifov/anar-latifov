@@ -4,7 +4,7 @@ Senior Full Stack Developer · Software Architect · Technical Lead, based in Ba
 
 I build event-driven microservices, distributed systems, and secure IoT communication platforms — on top of solid full-stack delivery with TypeScript, Node.js, and React. 6+ years leading technical initiatives, mentoring engineers, and running technical interviews across telecom, cybersecurity, and edtech domains.
 
-Currently leading backend architecture for a cybersecurity education platform (9 microservices, event-driven workflows over Redis Streams) at Focal Point SPRL.
+Currently leading backend architecture for a distributed microservices platform (9 services, event-driven workflows over Redis Streams) at Focal Point SPRL.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anar-lat/)
 [![Email](https://img.shields.io/badge/-e.latifov.anar@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:e.latifov.anar@gmail.com)
