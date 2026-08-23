@@ -35,5 +35,4 @@ Currently leading backend architecture for a distributed microservices platform 
 
 ### GitHub stats
 
-![Anar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anar-latifov&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anar-latifov&theme=vue-dark&show_icons=true&hide_border=true&hide=tsql,hack,sass)
+![Anar's GitHub metrics](https://raw.githubusercontent.com/anar-latifov/anar-latifov/main/github-metrics.svg)
